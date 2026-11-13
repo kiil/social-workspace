@@ -1,0 +1,168 @@
+format = "markdown"
+version = 4
+
+[workspace]
+date_format = "%Y-%m-%d"
+path = ""
+
+[markdown]
+date_format = "%Y-%m-%d"
+refs_extension = ".md"
+refs_path = "relative"
+refs_text = "preserve"
+wiki_link_path = "preserve"
+
+[markdown.formatting]
+preserve_line_breaks = true
+
+[completion]
+link_format = "markdown"
+
+[search]
+language = "english"
+
+[actions.extract]
+key_template = "{{id}}"
+link_type = "markdown"
+title = "Extract"
+type = "extract"
+
+[actions.inline_section]
+inline_type = "section"
+keep_target = false
+title = "Inline section"
+type = "inline"
+
+[actions.link]
+key_template = "{{id}}"
+link_type = "markdown"
+title = "Link"
+type = "link"
+
+[actions.sort]
+reverse = false
+title = "Sort A-Z"
+type = "sort"
+
+# ---------------------------------------------------------------------------
+# Templates — used by `iwe new -t <name> "<title>"`
+# ---------------------------------------------------------------------------
+
+[templates.default]
+key_template = "{{slug}}"
+document_template = """---
+type: note
+title: "{{title}}"
+description: ""
+---
+
+# {{title}}
+
+{{content}}"""
+
+[templates.guide]
+key_template = "guides/{{slug}}"
+document_template = """---
+type: guide
+title: "{{title}}"
+description: "One line on what this guide is for."
+track: meeting
+tags: [meeting]
+status: draft
+---
+
+# {{title}}
+
+{{content}}
+"""
+
+[templates.journal]
+key_template = "journal/{{slug}}"
+document_template = """---
+type: journal-entry
+title: "{{title}}"
+description: "One line on what happened."
+date: {{today}}
+outcome: neutral
+---
+
+# {{title}}
+
+## What happened
+
+{{content}}
+
+## What I noticed
+
+## Next time
+"""
+
+[templates.person]
+key_template = "people/{{slug}}"
+document_template = """---
+type: person
+title: "{{title}}"
+description: "How you know them, in one line."
+relationship: acquaintance
+met: {{today}}
+last_contact: {{today}}
+---
+
+# {{title}}
+
+## Context
+
+{{content}}
+
+## What matters to them
+
+## Contact log
+
+- {{today}} — First meeting.
+"""
+
+[templates.venue]
+key_template = "venues/{{slug}}"
+document_template = """---
+type: venue
+title: "{{title}}"
+description: "One line on why this place is worth investing in."
+mode: belonging
+recurrence: weekly
+---
+
+# {{title}}
+
+## Why it works as a venue
+
+{{content}}
+
+## How to actually use it
+
+## Conversation starters
+"""
+
+# ---------------------------------------------------------------------------
+# Schemas — checked by `iwe schema validate`
+# ---------------------------------------------------------------------------
+
+[schemas.okf]
+match = ["**", "!index", "!**/index", "!log", "!**/log"]
+
+[schemas.okf-index]
+match = ["index", "**/index"]
+
+[schemas.okf-log]
+match = ["log", "**/log"]
+
+[schemas.guide]
+match = ["guides/*", "!guides/index"]
+
+[schemas.journal-entry]
+match = ["journal/*", "!journal/index"]
+
+[schemas.person]
+match = ["people/*", "!people/index"]
+
+[schemas.venue]
+match = ["venues/*", "!venues/index"]

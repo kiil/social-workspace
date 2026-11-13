@@ -1,0 +1,20 @@
+$schema: https://document-schema.org/draft/2026-06/schema
+description: One interaction worth learning from — what happened, what was noticed, what to try next time
+frontmatter:
+  type: object
+  required: [type, title, description, date, outcome]
+  properties:
+    type: { const: journal-entry }
+    title: { type: string, minLength: 1 }
+    description: { type: string }
+    date: { type: string, format: date }
+    outcome: { enum: [connected, missed, declined, neutral] }
+    venue: { type: string }
+    people: { type: array, items: { type: string } }
+    is_example: { type: boolean }
+sections:
+  - header: { pattern: '.+' }
+    sections:
+      - header: { const: What happened }
+      - header: { const: What I noticed }
+      - header: { const: Next time }

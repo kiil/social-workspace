@@ -1,0 +1,10 @@
+$schema: https://document-schema.org/draft/2026-06/schema
+description: A practice guide — general advice, never facts about the user or other people
+frontmatter:
+  type: object
+  required: [type, title, description, track]
+  properties:
+    type: { const: guide }
+    title: { type: string, minLength: 1 }
+    description: { type: string, minLength: 1 }
+    track: { enum: [overview, foundations, meeting, friendship, community, network, romance, sustaining] }

@@ -1,0 +1,7 @@
+format = 1
+id = "social"
+name = "Social Life"
+description = "Friends, community, network and romance as a graph: practice guides, venues, people and a journal."
+version = "1.0.0"
+authors = ["Lennart Kiil"]
+license = "MIT"
