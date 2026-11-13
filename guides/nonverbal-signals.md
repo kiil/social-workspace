@@ -1,9 +1,10 @@
 ---
 type: guide
-title: "Offline Signals: The Body-Language Equivalent of Swiping"
-description: "Reading and sending the offline, nonverbal equivalent of a swipe before you approach."
+title: 'Offline Signals: The Body-Language Equivalent of Swiping'
+description: Reading and sending the offline, nonverbal equivalent of a swipe before you approach.
 track: meeting
-tags: [meeting]
+tags:
+- meeting
 ---
 
 # Offline Signals: The Body-Language Equivalent of Swiping

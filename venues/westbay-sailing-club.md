@@ -1,10 +1,13 @@
 ---
 type: venue
-title: "Venue in practice: contributing, at a sailing club"
+title: 'Venue in practice: contributing, at a sailing club'
 description: A fictional worked example of a venue you contribute to — a sailing club where you volunteer as an instructor.
 mode: contributing
 recurrence: weekly
-tags: [example, interest-based, volunteering]
+tags:
+- example
+- interest-based
+- volunteering
 is_example: true
 ---
 

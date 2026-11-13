@@ -1,9 +1,10 @@
 ---
 type: guide
-title: "Social Life Framework"
-description: "Map of the whole framework: foundations, the shared arc of meeting people, and the friendship, community, network and romance tracks."
+title: Social Life Framework
+description: 'Map of the whole framework: foundations, the shared arc of meeting people, and the friendship, community, network and romance tracks.'
 track: overview
-tags: [overview]
+tags:
+- overview
 ---
 
 # Social Life Framework

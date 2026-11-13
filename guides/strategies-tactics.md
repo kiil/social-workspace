@@ -1,9 +1,10 @@
 ---
 type: guide
-title: "Strategies and Tactics"
-description: "Practical tactics for reading receptiveness and building rapport in social settings."
+title: Strategies and Tactics
+description: Practical tactics for reading receptiveness and building rapport in social settings.
 track: meeting
-tags: [meeting]
+tags:
+- meeting
 ---
 
 # Strategies and Tactics

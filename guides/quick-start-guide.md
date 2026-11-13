@@ -1,9 +1,10 @@
 ---
 type: guide
-title: "Quick-Start Guide"
-description: "Where to begin, how the guides fit together, and the weekly rhythm to work them in."
+title: Quick-Start Guide
+description: Where to begin, how the guides fit together, and the weekly rhythm to work them in.
 track: overview
-tags: [overview]
+tags:
+- overview
 ---
 
 # Quick-Start Guide

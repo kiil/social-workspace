@@ -1,9 +1,10 @@
 ---
 type: guide
-title: "Direct Contact Initiation and Assertiveness"
-description: "Making contact directly and clearly instead of hovering, hinting and hoping to be noticed."
+title: Direct Contact Initiation and Assertiveness
+description: Making contact directly and clearly instead of hovering, hinting and hoping to be noticed.
 track: meeting
-tags: [meeting]
+tags:
+- meeting
 ---
 
 # Direct Contact Initiation and Assertiveness

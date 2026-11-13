@@ -1,9 +1,10 @@
 ---
 type: guide
-title: "Communication and Emotional Intimacy"
-description: "Building depth and vulnerability through listening, disclosure and honest conversation."
+title: Communication and Emotional Intimacy
+description: Building depth and vulnerability through listening, disclosure and honest conversation.
 track: romance
-tags: [romance]
+tags:
+- romance
 ---
 
 # Communication and Emotional Intimacy

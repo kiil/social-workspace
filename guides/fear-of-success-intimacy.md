@@ -1,9 +1,10 @@
 ---
 type: guide
-title: "Fear of Success and Pre-emptive Self-Sabotage in Intimacy"
-description: "Pulling away right when someone shows real interest: recognising and working with pre-emptive self-sabotage."
+title: Fear of Success and Pre-emptive Self-Sabotage in Intimacy
+description: 'Pulling away right when someone shows real interest: recognising and working with pre-emptive self-sabotage.'
 track: romance
-tags: [romance]
+tags:
+- romance
 ---
 
 # Fear of Success and Pre-emptive Self-Sabotage in Intimacy

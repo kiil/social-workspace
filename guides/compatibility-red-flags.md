@@ -1,9 +1,10 @@
 ---
 type: guide
-title: "Compatibility Assessment and Red Flags"
-description: "Evaluating fit and recognising yellow flags, red flags and deal-breakers early."
+title: Compatibility Assessment and Red Flags
+description: Evaluating fit and recognising yellow flags, red flags and deal-breakers early.
 track: romance
-tags: [romance]
+tags:
+- romance
 ---
 
 # Compatibility Assessment and Red Flags

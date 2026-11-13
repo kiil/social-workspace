@@ -1,9 +1,10 @@
 ---
 type: guide
-title: "Personal Development"
-description: "Self-awareness, emotional stability and the inner work that makes every other social skill easier."
+title: Personal Development
+description: Self-awareness, emotional stability and the inner work that makes every other social skill easier.
 track: foundations
-tags: [foundations]
+tags:
+- foundations
 ---
 
 # Personal Development

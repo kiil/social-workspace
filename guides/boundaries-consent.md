@@ -1,9 +1,10 @@
 ---
 type: guide
-title: "Boundaries and Consent"
-description: "Setting, communicating and respecting limits as the foundation of safe connection."
+title: Boundaries and Consent
+description: Setting, communicating and respecting limits as the foundation of safe connection.
 track: foundations
-tags: [foundations]
+tags:
+- foundations
 ---
 
 # Boundaries and Consent
@@ -52,4 +53,3 @@ Setting, communicating, and respecting limits — the foundation of safe, health
 - Trusting that someone who respects you will respect your limits
 
 Boundary violations are among the clearest signals in [Compatibility Assessment and Red Flags](compatibility-red-flags.md), and enforcing them safely connects directly to [Safety and Vetting](safety-vetting.md).
-

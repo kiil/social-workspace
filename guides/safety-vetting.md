@@ -1,9 +1,10 @@
 ---
 type: guide
-title: "Safety and Vetting"
-description: "Precautions before meeting new people one-on-one, online and offline."
+title: Safety and Vetting
+description: Precautions before meeting new people one-on-one, online and offline.
 track: foundations
-tags: [foundations]
+tags:
+- foundations
 ---
 
 # Safety and Vetting
@@ -52,4 +53,3 @@ Protecting your physical and emotional safety while meeting and dating new peopl
 - Report and block anyone who violates boundaries or asks for money
 
 Safety underpins everything else. When in doubt, see [Compatibility Assessment and Red Flags](compatibility-red-flags.md) for how these signals compound over time, and [Boundaries and Consent](boundaries-consent.md) for enforcing limits.
-

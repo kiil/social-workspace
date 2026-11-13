@@ -1,9 +1,10 @@
 ---
 type: guide
-title: "First Date Planning and Execution"
-description: "Setting up and running a first date that builds connection and stays safe."
+title: First Date Planning and Execution
+description: Setting up and running a first date that builds connection and stays safe.
 track: romance
-tags: [romance]
+tags:
+- romance
 ---
 
 # First Date Planning and Execution

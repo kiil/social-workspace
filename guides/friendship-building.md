@@ -1,9 +1,10 @@
 ---
 type: guide
-title: "Building Friendships as an Adult"
-description: "Putting recurrence, time and initiative back into adult life so acquaintances become friends."
+title: Building Friendships as an Adult
+description: Putting recurrence, time and initiative back into adult life so acquaintances become friends.
 track: friendship
-tags: [friendship]
+tags:
+- friendship
 ---
 
 # Building Friendships as an Adult

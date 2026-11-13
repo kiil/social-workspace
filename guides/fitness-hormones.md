@@ -1,9 +1,10 @@
 ---
 type: guide
-title: "Physical Fitness and Hormones"
-description: "How physical fitness, sleep and hormones affect energy, mood and social confidence."
+title: Physical Fitness and Hormones
+description: How physical fitness, sleep and hormones affect energy, mood and social confidence.
 track: foundations
-tags: [foundations]
+tags:
+- foundations
 ---
 
 # Physical Fitness and Hormones

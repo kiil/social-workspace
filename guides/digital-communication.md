@@ -1,9 +1,10 @@
 ---
 type: guide
-title: "Digital Communication and Online Dating"
-description: "Dating apps, profiles, texting and moving from online contact to a meeting."
+title: Digital Communication and Online Dating
+description: Dating apps, profiles, texting and moving from online contact to a meeting.
 track: romance
-tags: [romance]
+tags:
+- romance
 ---
 
 # Digital Communication and Online Dating
@@ -59,4 +60,3 @@ Navigating apps, texting, and the online-to-offline transition that defines mode
 - Treating the app as a way to meet, not a relationship in itself
 
 Digital communication is one channel among many — weigh it against in-person options in [Venues and Contexts](venues-contexts.md), and carry the same tactics into [Strategies and Tactics](strategies-tactics.md).
-

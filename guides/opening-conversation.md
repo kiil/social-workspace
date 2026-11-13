@@ -1,9 +1,10 @@
 ---
 type: guide
-title: "Opening the Conversation After a Green Light"
-description: "How to open and carry a conversation once someone has signalled they are open to it."
+title: Opening the Conversation After a Green Light
+description: How to open and carry a conversation once someone has signalled they are open to it.
 track: meeting
-tags: [meeting]
+tags:
+- meeting
 ---
 
 # Opening the Conversation After a Green Light

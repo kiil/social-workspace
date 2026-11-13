@@ -1,9 +1,10 @@
 ---
 type: guide
-title: "Flirting Techniques"
-description: "Playful, respectful ways to signal romantic interest and read whether it is returned."
+title: Flirting Techniques
+description: Playful, respectful ways to signal romantic interest and read whether it is returned.
 track: romance
-tags: [romance]
+tags:
+- romance
 ---
 
 # Flirting Techniques

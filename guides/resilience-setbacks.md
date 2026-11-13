@@ -1,9 +1,10 @@
 ---
 type: guide
-title: "Resilience and Handling Setbacks"
-description: "Handling rejection and setbacks without letting them become a verdict on your worth."
+title: Resilience and Handling Setbacks
+description: Handling rejection and setbacks without letting them become a verdict on your worth.
 track: sustaining
-tags: [sustaining]
+tags:
+- sustaining
 ---
 
 # Resilience and Handling Setbacks

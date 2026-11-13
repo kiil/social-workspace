@@ -1,9 +1,10 @@
 ---
 type: guide
-title: "Grooming, Presentation, and Hygiene"
-description: "Grooming, clothing and hygiene as low-effort, high-return signals of self-respect."
+title: Grooming, Presentation, and Hygiene
+description: Grooming, clothing and hygiene as low-effort, high-return signals of self-respect.
 track: foundations
-tags: [foundations]
+tags:
+- foundations
 ---
 
 # Grooming, Presentation, and Hygiene

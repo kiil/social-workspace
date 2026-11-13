@@ -1,9 +1,10 @@
 ---
 type: guide
-title: "Inner Blocks and Light Social Anxiety"
-description: "Working with the freeze between knowing what to do and doing it: everyday nerves and self-imposed blocks."
+title: Inner Blocks and Light Social Anxiety
+description: 'Working with the freeze between knowing what to do and doing it: everyday nerves and self-imposed blocks.'
 track: foundations
-tags: [foundations]
+tags:
+- foundations
 ---
 
 # Inner Blocks and Light Social Anxiety

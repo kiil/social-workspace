@@ -1,9 +1,10 @@
 ---
 type: guide
-title: "Community and Belonging"
-description: "Joining a community by belonging as a regular or contributing through a role."
+title: Community and Belonging
+description: Joining a community by belonging as a regular or contributing through a role.
 track: community
-tags: [community]
+tags:
+- community
 ---
 
 # Community and Belonging

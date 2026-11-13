@@ -1,9 +1,10 @@
 ---
 type: guide
-title: "Venues and Contexts"
-description: "Where to meet people and how to choose a few venues strategically instead of chasing every option."
+title: Venues and Contexts
+description: Where to meet people and how to choose a few venues strategically instead of chasing every option.
 track: meeting
-tags: [meeting]
+tags:
+- meeting
 ---
 
 # Venues and Contexts

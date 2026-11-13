@@ -1,9 +1,10 @@
 ---
 type: guide
-title: "Professional Networking Without the Cringe"
-description: "Networking as slow friendship in your field: give first, stay curious, follow up."
+title: Professional Networking Without the Cringe
+description: 'Networking as slow friendship in your field: give first, stay curious, follow up.'
 track: network
-tags: [network]
+tags:
+- network
 ---
 
 # Professional Networking Without the Cringe

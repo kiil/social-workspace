@@ -1,9 +1,10 @@
 ---
 type: guide
-title: "Aura Farming and Status in Social Settings"
-description: "Presence and situational status: why people are drawn to some before they speak, and how to build status you can stand behind."
+title: Aura Farming and Status in Social Settings
+description: 'Presence and situational status: why people are drawn to some before they speak, and how to build status you can stand behind.'
 track: meeting
-tags: [meeting]
+tags:
+- meeting
 ---
 
 # Aura Farming and Status in Social Settings

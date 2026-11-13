@@ -1,10 +1,12 @@
 ---
 type: venue
-title: "Venue in practice: belonging, at an art museum"
+title: 'Venue in practice: belonging, at an art museum'
 description: A fictional worked example of a venue you belong to as a regular — a modern art museum on the coast near home.
 mode: belonging
 recurrence: weekly
-tags: [example, interest-based]
+tags:
+- example
+- interest-based
 is_example: true
 ---
 

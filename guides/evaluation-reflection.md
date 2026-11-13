@@ -1,9 +1,10 @@
 ---
 type: guide
-title: "Evaluation and Reflection"
-description: "Lightweight reviews that turn experience into learning rather than self-judgment."
+title: Evaluation and Reflection
+description: Lightweight reviews that turn experience into learning rather than self-judgment.
 track: sustaining
-tags: [sustaining]
+tags:
+- sustaining
 ---
 
 # Evaluation and Reflection
